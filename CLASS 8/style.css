@@ -1,0 +1,127 @@
+nav{
+width: 100%;
+    position:fixed;
+    top: -20px;
+    background-color: aliceblue;
+    
+}
+ul >li{
+    display: inline;
+    word-spacing: 15px;
+
+
+}
+#ac{
+    font-family:'Courier New', Courier, monospace;
+    color: greenyellow;
+}
+.container{
+    display: inline-block;
+    margin:0 ;
+    width: 600px;
+    font-size: 40px;
+    padding: 50px;
+    
+    padding-bottom: 40px;
+    color: rgb(151, 243, 12);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    z-index: -1;
+    position: relative;
+    bottom: 20px;
+    
+}
+#av{
+    float: right;
+    position: relative;
+    top: 89px;
+    right: 50px;
+    z-index: -1;
+}
+#ab{
+    position: relative;
+    bottom: 32px;
+    padding: 0%;
+    font-size: 25px;
+    color: rgb(105, 107, 106);
+    font-weight: 100;
+    font-display: 12px;
+}
+button{
+    font-weight: bold;
+      position: relative;
+      bottom: 15px;
+    background-color: rgb(105, 155, 5);
+    border-radius: 18px;
+    width: 126px;
+    height: 39px;
+    border: 0cap;
+}
+span{
+    font-size: large;
+    color: rgb(117, 114, 114);
+}
+.box{
+    display: inline-block ;
+    position: relative;
+    bottom: 499px;
+    right: 2px;
+    width: 600px;
+    padding: 50px;
+    margin: 0 auto;
+    float: right;
+    font-size:16px ;
+    font-family: 'Courier New', Courier, monospace;
+    z-index: -1;
+}
+#ev{
+    border: 2px solid yellowgreen;
+    background-color: aliceblue;
+    color: yellowgreen;
+}
+.mydiv{
+    max-width: 90%;
+    
+    padding: 35px
+}
+tr>th{
+    font-size: x-large;
+    width: 100%;
+    /* word-spacing: 600px; */
+    padding: 65px;
+    position: relative;
+    bottom: 300px;
+    font-weight: 200;
+}
+tr>td{
+    
+    width: 90%;
+    padding: 50px;
+    position: relative;
+    bottom: 400px;
+    left: 45px;
+}
+.idiv{
+    width: 1100px;
+    height: 400px;
+    padding: 20px;
+    margin: 0 auto;
+    border: solid;
+    border-radius: 8px;
+}
+#ok{
+    height: 440px;
+    display: inline-block;
+    position: relative;
+    left: 624px;
+    bottom: 266px;
+    
+}
+.idiv h4{
+    padding: 20px;
+width: 400px;
+font-size: large;
+}
+.idiv h1{
+    font-size: 33px;
+    font-family: 'Courier New', Courier, monospace;
+}
